@@ -1,0 +1,5 @@
+{
+  "version": "2.7.0",
+  "url": "https://pan.quark.cn/s/4fd6c99d415d",
+  "notes": "v2.7：API Key 存入系统凭据库、配置备份脱敏、内置 CFPA 标准词库（99664 条）、全局任务中心、首次启动引导、界面精简。"
+}
