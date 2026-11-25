@@ -2,6 +2,6 @@
   "version": "1.5.1",
   "url": "https://pan.quark.cn/s/4fd6c99d415d",
   "notes": "v1.5.1：安全与稳定性加固。打开网页改用 Windows ShellExecuteW 结构化传参，根治 URL 命令注入；翻译缓存按后端/模型/地址/目标语言/提示词指纹分区并加 5 万条上限与原子写；API Key 三槽位严格写入并回读确认后才更新配置；修复失败页重试与查看失败项灰屏；免费翻译冷启动探测窗口延长到 10 秒避免误判；新增词库试译。安装器改为强制关闭正在运行的旧版实例，不再提示手动退出。",
-  "sha256": "9afa6b54f03ed9cac6304257dedc35d116db5e8acf398223d999afdd38fe9a79",
+  "sha256": "f0aedc72f9eb73e08838a8a36d435088448543f49b0e85cb55ce3cd282ae08d2",
   "portableUrl": "https://pan.quark.cn/s/4fd6c99d415d"
 }
