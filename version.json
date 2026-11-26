@@ -2,6 +2,6 @@
   "version": "1.6.1",
   "url": "https://pan.quark.cn/s/4fd6c99d415d",
   "notes": "v1.6.1：修正中文名称数据分发缺口。v1.6.0 的 MC百科全量数据（26,561 条）只写进本机运行目录、没进安装包；本版把合并后的 32,606 条全量对照（PCL WikiEntries 11,600 + MC百科 26,561）固化为内置数据随包分发，新用户开箱即有完整中文译名，老用户升级自动补齐且手动译名不受影响。内置版本标记落盘避免每次启动重复解析。",
-  "sha256": "e824f3dbc099e1289f8da0c1ee8ee451c860f9f87bbfbbc06fe8d3bec382d3e2",
+  "sha256": "26f06792b6446af74e3d1781014bee494735d93e41183f826961af7a3cc3b5d8",
   "portableUrl": "https://pan.quark.cn/s/4fd6c99d415d"
 }
